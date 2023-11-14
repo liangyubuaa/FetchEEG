@@ -1,5 +1,5 @@
 # Requirements
 
-Python 3.8
+- Python 3.8
 
-Pytorch 1.11
+- Pytorch 1.11
